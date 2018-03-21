@@ -1,1 +1,1 @@
-# SQL_HackerRank
+# Solutions to all SQL HackerRank questions
